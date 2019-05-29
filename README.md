@@ -1,7 +1,7 @@
 # zipfile_cracking.py
 
 
-that is a script to do a brute force in files zip and wnrar
+that is a script to do brute force in files zip and wnrar
 
 this was developed in python
 
